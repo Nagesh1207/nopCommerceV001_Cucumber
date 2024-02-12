@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
 	    features = {"Features/Login.feature", "Features/Customer.feature"},
 	    glue = "stepDefinations",
 	    dryRun = false,
-	    plugin = {"pretty", "html:target/cucumber-reports.html"},
-	    tags="@sanity,@regression"
+	    plugin = {"pretty", "html:target/cucumber-reports.html"}
+	    //tags="@sanity"
 	)
 		
 		

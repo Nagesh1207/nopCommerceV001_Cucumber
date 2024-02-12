@@ -346,3 +346,96 @@
 2024-02-10 00:18:31,242nopCommerceV001_CucumberINFO ************launching chrome browser*************
 2024-02-10 00:18:31,833nopCommerceV001_CucumberINFO ************launching url*************
 2024-02-10 00:18:33,751nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:07:00,932nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:07:02,077nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:07:34,634nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:07:35,744nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:07:38,252nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:07:38,464nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:07:44,500nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:07:46,645nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:07:47,462nopCommerceV001_CucumberINFO ************user click add new*************
+2024-02-12 13:07:48,451nopCommerceV001_CucumberINFO ************checking validation************
+2024-02-12 13:07:48,472nopCommerceV001_CucumberINFO ************creating new*************
+2024-02-12 13:08:05,385nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:08:05,977nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:08:08,670nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:08:08,869nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:08:13,877nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:08:15,989nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:08:20,602nopCommerceV001_CucumberINFO true
+2024-02-12 13:08:20,725nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:08:21,327nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:08:23,348nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:08:23,548nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:08:28,467nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:08:30,596nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:08:35,643nopCommerceV001_CucumberINFO true
+2024-02-12 13:08:35,765nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:08:36,354nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:08:37,845nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:08:38,038nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:08:44,290nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:08:44,882nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:08:46,796nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:08:47,024nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:08:51,350nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:08:51,866nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:08:53,707nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:08:53,866nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:12:14,518nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:12:15,733nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:12:19,246nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:12:19,463nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:12:25,270nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:12:27,363nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:12:33,939nopCommerceV001_CucumberINFO ************user click add new*************
+2024-02-12 13:12:36,682nopCommerceV001_CucumberINFO ************checking validation************
+2024-02-12 13:12:36,717nopCommerceV001_CucumberINFO ************creating new*************
+2024-02-12 13:12:53,769nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:12:54,321nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:13:00,129nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:13:00,325nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:13:27,018nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:13:29,090nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:13:38,156nopCommerceV001_CucumberINFO true
+2024-02-12 13:13:38,375nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:13:38,920nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:13:40,670nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:13:40,872nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:13:46,030nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 13:13:48,094nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 13:13:53,291nopCommerceV001_CucumberINFO true
+2024-02-12 13:13:53,477nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:13:53,995nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:13:55,643nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:13:55,865nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:14:00,576nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:14:01,114nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:14:03,378nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:14:03,589nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:14:10,806nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:14:11,473nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:14:13,370nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:14:13,572nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:16:44,187nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:16:45,275nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:18:01,308nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 13:18:03,133nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:36:43,790nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:36:45,716nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:48:32,767nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:48:33,072nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:51:57,468nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:52:00,370nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 15:52:03,370nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 15:52:03,521nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 15:52:08,468nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 15:52:10,708nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 15:52:12,726nopCommerceV001_CucumberINFO ************user click add new*************
+2024-02-12 15:52:13,604nopCommerceV001_CucumberINFO ************checking validation************
+2024-02-12 15:52:13,611nopCommerceV001_CucumberINFO ************creating new*************
+2024-02-12 15:52:31,261nopCommerceV001_CucumberINFO ************launching firefox browser*************
+2024-02-12 15:52:33,392nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 15:52:35,601nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 15:52:35,689nopCommerceV001_CucumberINFO ************click on login*************
