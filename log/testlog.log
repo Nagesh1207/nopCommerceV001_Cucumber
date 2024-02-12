@@ -346,3 +346,42 @@
 2024-02-10 00:18:31,242nopCommerceV001_CucumberINFO ************launching chrome browser*************
 2024-02-10 00:18:31,833nopCommerceV001_CucumberINFO ************launching url*************
 2024-02-10 00:18:33,751nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:55:22,796nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:55:23,955nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:55:25,721nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:55:25,898nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 12:57:24,778nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:57:25,851nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:57:28,283nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:57:28,462nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 12:57:39,872nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 12:57:42,038nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 12:57:42,868nopCommerceV001_CucumberINFO ************user click add new*************
+2024-02-12 12:57:43,909nopCommerceV001_CucumberINFO ************checking validation************
+2024-02-12 12:57:43,932nopCommerceV001_CucumberINFO ************creating new*************
+2024-02-12 12:58:00,944nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:58:01,499nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:58:03,940nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:58:04,181nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 12:58:11,525nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 12:58:13,622nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 12:58:18,999nopCommerceV001_CucumberINFO true
+2024-02-12 12:58:19,124nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:58:19,657nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:58:21,496nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:58:21,695nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 12:58:28,528nopCommerceV001_CucumberINFO ************user click on customer menu*************
+2024-02-12 12:58:30,676nopCommerceV001_CucumberINFO ************user click on customer menu item*************
+2024-02-12 12:58:35,445nopCommerceV001_CucumberINFO true
+2024-02-12 12:58:35,586nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:58:36,106nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:58:38,764nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:58:38,959nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 12:59:28,108nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 12:59:28,645nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 12:59:32,087nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 12:59:32,295nopCommerceV001_CucumberINFO ************click on login*************
+2024-02-12 13:00:12,344nopCommerceV001_CucumberINFO ************launching chrome browser*************
+2024-02-12 13:00:12,890nopCommerceV001_CucumberINFO ************launching url*************
+2024-02-12 13:00:15,875nopCommerceV001_CucumberINFO ************inserting login details*************
+2024-02-12 13:00:16,052nopCommerceV001_CucumberINFO ************click on login*************
