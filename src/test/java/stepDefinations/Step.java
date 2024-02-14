@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
@@ -15,7 +14,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.GeckoDriverService;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-
 import io.cucumber.java.Before;
 import io.cucumber.java.en.*;
 import pageObjects.AddcustomerPage;
@@ -50,8 +48,7 @@ public class Step extends BaseClass {
 			GeckoDriverService service = new GeckoDriverService.Builder().usingDriverExecutable(new File(driverLoc)).build();
 
 			FirefoxOptions options = new FirefoxOptions();
-			options.setBinary(binaryLoc);
-			
+			options.setBinary(binaryLoc);			
 			driver=new FirefoxDriver(service, options);
 
 			}
@@ -68,6 +65,7 @@ public class Step extends BaseClass {
 			
 	}
 	
+
 	@Given("User Launch Chrome browser")
 	public void user_launch_chrome_browser() {
 //		logger=Logger.getLogger("nopCommerceV001_Cucumber") ;		//Added logger
@@ -225,65 +223,6 @@ public class Step extends BaseClass {
 		Assert.assertEquals(true, status);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 	
 }

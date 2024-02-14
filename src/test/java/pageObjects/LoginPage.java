@@ -6,12 +6,15 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import java.time.Duration;
+
 public class LoginPage {
 	public WebDriver ldriver;
-	
+	WaitHelper waitHelper;
 	public LoginPage(WebDriver rdriver) {
 		ldriver = rdriver;
 		PageFactory.initElements(rdriver, this);
+		waitHelper= new WaitHelper(ldriver);
 	}
 	
 	@FindBy(id="Email")
@@ -45,6 +48,7 @@ public class LoginPage {
 	}
 	
 	public void clickLogout() {
+		waitHelper.waitForElement(lnkLogout, Duration.ofSeconds(10));
 		lnkLogout.click();
 	}
 }
