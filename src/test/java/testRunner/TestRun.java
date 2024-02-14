@@ -7,11 +7,12 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-	    features = {"Features/Login.feature", "Features/Customer.feature"},
-	    glue = "stepDefinations",
+	    //features = {"Features/Login.feature", "Features/Customer.feature"},
+	    features = "Features",
+		glue = "stepDefinations",
 	    dryRun = false,
-	    plugin = {"pretty", "html:target/cucumber-reports.html"}
-	    //tags="@sanity"
+	    plugin = {"pretty", "html:target/cucumber-reports.html"},
+	    tags="@sanity,@regression"
 	)
 		
 		
